@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1438449656 source:c:\users\samuel\desktop\convertisseurdesensi\convertisseurdesensi\fonction.cpp
+	"fonction.h"
+	<iostream>
+	<string>
+
+1438449415 c:\users\samuel\desktop\convertisseurdesensi\convertisseurdesensi\fonction.h
+	<string>
+
+1438449470 source:c:\users\samuel\desktop\convertisseurdesensi\convertisseurdesensi\main.cpp
+	<iostream>
+	"fonction.h"
+	<string>
+
